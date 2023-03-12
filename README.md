@@ -46,12 +46,24 @@ main.py
 ````
 ## Process
 1. System captures the image and send to the preprocessing stage to enhance the quality of image.
-![This is an image](xyz)
+
+![This is an image](https://github.com/aadhib/Number-Plate-Detection/blob/main/Screenshots/1.png)
+
 2. The process of RGB to Gray Scale Convertion has been done using threshold value. It is also known as Thershold image.
-![This is an image](xyz)
+
+![This is an image](https://github.com/aadhib/Number-Plate-Detection/blob/main/Screenshots/2.png)
+
 3. Here localization process has been done through binary image convertion.
-![This is an image](xyz)
+
+![This is an image](https://github.com/aadhib/Number-Plate-Detection/blob/main/Screenshots/3.png)
+
 4. Detecting the number plate using image processing technique.
-![This is an image](xyz)
+
+![This is an image](https://github.com/aadhib/Number-Plate-Detection/blob/main/Screenshots/4.png)
+
 5. The alphanumerics of the number plate were detected and displayed using Optical Character Recognition technique.
-![This is an image](xyz)
+
+![This is an image](https://github.com/aadhib/Number-Plate-Detection/blob/main/Screenshots/5.png)
+
+## Conclusion
+In conclusion, the Number Plate Detection and Recognition System is a computer vision project developed using Python, OpenCV, and Pytesseract. The system uses image processing and OCR techniques to detect and recognize license plates in images or video footage. The system has a wide range of applications, from automated toll collection to law enforcement, and has the potential to significantly improve the efficiency and accuracy of these processes.
